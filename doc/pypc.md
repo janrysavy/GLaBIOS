@@ -1,7 +1,7 @@
 # PyPC profile
 
 The `pypc` branch is based on the stable `v0.4.2` tag and adds a build profile
-for the [PyPC-MPC](https://github.com/janrysavy/PyPC-MPC) emulator.
+for the [PyPC-MCP](https://github.com/janrysavy/PyPC-MCP) emulator.
 
 PyPC has no floppy disk controller. Its conventional-memory map ends at 640 KB
 for both its CGA and VGA adapters. The profile therefore:
